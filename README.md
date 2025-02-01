@@ -38,10 +38,10 @@ Please cite the following paper if you use this repository in your reseach.
   journal={IEEE Signal Processing Letters}, 
   title={Blind Light Field Image Quality Assessment via Frequency Domain Analysis and Auxiliary Learning}, 
   year={2025},
-  volume={},
+  volume={32},
   number={},
-  pages={1-5},
-  keywords={Measurement;Feature extraction;Discrete cosine transforms;Distortion;Light fields;Three-dimensional displays;Spatial resolution;Visualization;Frequency conversion;Frequency-domain analysis;Light field;blind image quality assessment;frequency domain;auxiliary learning;deep learning network},
+  pages={711-715},
+  keywords={Measurement;Feature extraction;Discrete cosine transforms;Distortion;Light fields;Three-dimensional displays;Spatial resolution;Visualization;Frequency conversion;Frequency-domain analysis;Auxiliary learning;blind image quality assessment;deep learning network;frequency domain;light field},
   doi={10.1109/LSP.2025.3531209}}
 ```
 ### Contact
